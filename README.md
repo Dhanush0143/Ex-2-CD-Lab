@@ -7,7 +7,7 @@
 # ALGORITHM
 
 1.	Start the program.
-2.	Lex program consists of three parts.
+2.	Lex program consists of three parts. 
 
      a.	Declaration %%
 
