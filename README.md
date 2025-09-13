@@ -1,6 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-NAME : DHANUSH P
-REG NO : 212223230042
+# NAME : DHANUSH P
+# REG NO : 212223230042
 # Date: 13/09/25
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
